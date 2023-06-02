@@ -1,4 +1,4 @@
-# Diwali_Insight_For_Sales
+# Diwali_Insight_For_Potential_Market
 
 ## Software And Tools Requirements
 
